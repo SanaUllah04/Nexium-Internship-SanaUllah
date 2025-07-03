@@ -18,7 +18,7 @@ export default function Home() {
 }
 
 
-export function ButtonDemo() {
+function ButtonDemo() {
   return (
     <div className="flex flex-wrap items-center gap-2 md:flex-row">
       <Button>Start the Journy !</Button>
