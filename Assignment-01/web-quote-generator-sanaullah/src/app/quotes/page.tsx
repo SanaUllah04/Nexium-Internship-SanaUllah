@@ -1,12 +1,11 @@
 "use client";
 
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
+
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
+import InputWithButton from './InputWithButton';
 
 
-
-export default function Quote() {
+export default function Quotes() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 to-slate-100 p-4">
       <Card className="w-full max-w-lg shadow-lg">
@@ -17,7 +16,7 @@ export default function Quote() {
           </CardDescription>
         </CardHeader>
         <CardContent className="flex flex-col items-center space-y-6">
-          <InputWithButton />
+            <InputWithButton />
         </CardContent>
       </Card>
     </div>
@@ -26,22 +25,5 @@ export default function Quote() {
 
 
 
-function InputWithButton() {
-  return (
-    <div className="flex w-full max-w-sm items-center gap-2">
-      <Input 
-        type="quoteTopic" 
-        placeholder="Enter your topic..." 
-        className="shadow-sm"
-      />
-      <Button 
-        type="submit" 
-        variant="default"
-        className="shadow-sm hover:shadow-md transition-all"
-      >
-        Generate Quote
-      </Button>
-    </div>
-  )
-}
+
 
