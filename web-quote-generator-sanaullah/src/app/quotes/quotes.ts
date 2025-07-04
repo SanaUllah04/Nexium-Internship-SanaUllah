@@ -117,7 +117,7 @@ export const quotes = [
 
   // 24. Creativity
   { topic: 'creativity', text: "Creativity takes courage.", author: "Henri Matisse" },
-  { topic: 'creativity', text: "You can’t use up creativity. The more you use, the more you have.", author: "Maya Angelou" },
+  { topic: 'creativity', text: "You can't use up creativity. The more you use, the more you have.", author: "Maya Angelou" },
   { topic: 'creativity', text: "Creativity is intelligence having fun.", author: "Albert Einstein" },
 
   // 25. Dreams
@@ -125,23 +125,23 @@ export const quotes = [
   { topic: 'dreams', text: "Dream big and dare to fail.", author: "Norman Vaughan" },
   { topic: 'dreams', text: "The future belongs to those who believe in the beauty of their dreams.", author: "Eleanor Roosevelt" },
 
-  // 26. Success (again because it’s a top topic)
+  // 26. Success (again because it's a top topic)
   { topic: 'success', text: "Success usually comes to those who are too busy to be looking for it.", author: "Henry David Thoreau" },
   { topic: 'success', text: "Don't be afraid to give up the good to go for the great.", author: "John D. Rockefeller" },
   { topic: 'success', text: "I find that the harder I work, the more luck I seem to have.", author: "Thomas Jefferson" },
 
-  // 27. Leadership (cont’d)
+  // 27. Leadership (cont'd)
   { topic: 'leadership', text: "Leadership is not about titles, positions, or flowcharts.", author: "Simon Sinek" },
   { topic: 'leadership', text: "The art of leadership is saying no, not saying yes.", author: "Tony Blair" },
   { topic: 'leadership', text: "A leader is one who knows the way, goes the way, and shows the way.", author: "John C. Maxwell" },
 
-  // 28. Change (cont’d)
+  // 28. Change (cont'd)
   { topic: 'change', text: "Change your thoughts and you change your world.", author: "Norman Vincent Peale" },
   { topic: 'change', text: "To improve is to change; to be perfect is to change often.", author: "Winston Churchill" },
   { topic: 'change', text: "Every great dream begins with a dreamer.", author: "Harriet Tubman" },
 
   // 29. Mindset
-  { topic: 'mindset', text: "Whether you think you can or you think you can’t, you’re right.", author: "Henry Ford" },
+  { topic: 'mindset', text: "Whether you think you can or you think you can't, you're right.", author: "Henry Ford" },
   { topic: 'mindset', text: "A positive mindset brings positive things.", author: "Philippines Proverb" },
   { topic: 'mindset', text: "Your mindset determines your reality.", author: "Unknown" },
 
@@ -162,7 +162,7 @@ export const quotes = [
 
   // 33. Success Mindset
   { topic: 'success mindset', text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
-  { topic: 'success mindset', text: "Don’t watch the clock; do what it does. Keep going.", author: "Sam Levenson" },
+  { topic: 'success mindset', text: "Don't watch the clock; do what it does. Keep going.", author: "Sam Levenson" },
   { topic: 'success mindset', text: "Dream bigger. Do bigger.", author: "Unknown" },
 
   // 34. Leadership Lessons
@@ -181,9 +181,9 @@ export const quotes = [
   { topic: 'success habits', text: "Habit is either the best of servants or the worst of masters.", author: "Nathaniel Emmons" },
 
   // 37. Productivity
-  { topic: 'productivity', text: "It always seems impossible until it’s done.", author: "Nelson Mandela" },
+  { topic: 'productivity', text: "It always seems impossible until it's done.", author: "Nelson Mandela" },
   { topic: 'productivity', text: "Focus on being productive instead of busy.", author: "Tim Ferriss" },
-  { topic: 'productivity', text: "Start by doing what’s necessary; then do what’s possible.", author: "Francis of Assisi" },
+  { topic: 'productivity', text: "Start by doing what's necessary; then do what's possible.", author: "Francis of Assisi" },
 
   // 38. Resilience
   { topic: 'resilience', text: "Fall seven times, stand up eight.", author: "Japanese Proverb" },
@@ -192,7 +192,7 @@ export const quotes = [
 
   // 39. Integrity
   { topic: 'integrity', text: "Integrity is doing the right thing, even when no one is watching.", author: "C. S. Lewis" },
-  { topic: 'integrity', text: "Real integrity is doing the right thing, knowing nobody’s going to know whether you did it or not.", author: "Oprah Winfrey" },
+  { topic: 'integrity', text: "Real integrity is doing the right thing, knowing nobody's going to know whether you did it or not.", author: "Oprah Winfrey" },
   { topic: 'integrity', text: "The time is always right to do what is right.", author: "Martin Luther King Jr." },
 
   // 40. Self-Love
@@ -203,7 +203,7 @@ export const quotes = [
   // 41. Passion
   { topic: 'passion', text: "Passion is energy. Feel the power that comes from focusing on what excites you.", author: "Oprah Winfrey" },
   { topic: 'passion', text: "Nothing great in the world has ever been accomplished without passion.", author: "Georg Wilhelm Friedrich Hegel" },
-  { topic: 'passion', text: "If you feel it from within, then you don’t need others to tell you.", author: "Jennifer Ellison" },
+  { topic: 'passion', text: "If you feel it from within, then you don't need others to tell you.", author: "Jennifer Ellison" },
 
   // 42. Empathy
   { topic: 'empathy', text: "Empathy is seeing with the eyes of another, listening with the ears of another, and feeling with the heart of another.", author: "Alfred Adler" },
@@ -223,12 +223,12 @@ export const quotes = [
   // 45. Change Management
   { topic: 'change management', text: "Change before you have to.", author: "Jack Welch" },
   { topic: 'change management', text: "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.", author: "Socrates" },
-  { topic: 'change management', text: "In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.", author: "Mark Zuckerberg" },
+  { topic: 'change management', text: "In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks.", author: "Mark Zuckerberg" },
 
   // 46. Goals
   { topic: 'goals', text: "Setting goals is the first step in turning the invisible into the visible.", author: "Tony Robbins" },
   { topic: 'goals', text: "You are never too old to set another goal or to dream a new dream.", author: "C.S. Lewis" },
-  { topic: 'goals', text: "Dreams don’t work unless you do.", author: "John C. Maxwell" },
+  { topic: 'goals', text: "Dreams don't work unless you do.", author: "John C. Maxwell" },
 
   // 47. Change Yourself
   { topic: 'change yourself', text: "Be the change that you wish to see in the world.", author: "Mahatma Gandhi" },
@@ -292,11 +292,11 @@ export const quotes = [
 
   // 59. Dreams (repeat)
   { topic: 'dreams', text: "All our dreams can come true, if we have the courage to pursue them.", author: "Walt Disney" },
-  { topic: 'dreams', text: "Dream as if you’ll live forever. Live as if you’ll die today.", author: "James Dean" },
+  { topic: 'dreams', text: "Dream as if you'll live forever. Live as if you'll die today.", author: "James Dean" },
   { topic: 'dreams', text: "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.", author: "Langston Hughes" },
 
   // 60. Faith
-  { topic: 'faith', text: "Faith is taking the first step even when you don’t see the whole staircase.", author: "Martin Luther King Jr." },
+  { topic: 'faith', text: "Faith is taking the first step even when you don't see the whole staircase.", author: "Martin Luther King Jr." },
   { topic: 'faith', text: "To one who has faith, no explanation is necessary.", author: "Thomas Aquinas" },
   { topic: 'faith', text: "Faith is the bird that feels the light when the dawn is still dark.", author: "Rabindranath Tagore" },
 
@@ -304,7 +304,7 @@ export const quotes = [
   // 61. Hope
   { topic: 'hope', text: "Hope is being able to see that there is light despite all of the darkness.", author: "Desmond Tutu" },
   { topic: 'hope', text: "We must accept finite disappointment, but never lose infinite hope.", author: "Martin Luther King Jr." },
-  { topic: 'hope', text: "Once you choose hope, anything’s possible.", author: "Christopher Reeve" },
+  { topic: 'hope', text: "Once you choose hope, anything's possible.", author: "Christopher Reeve" },
 
   // 62. Adventure
   { topic: 'adventure', text: "Adventure is worthwhile in itself.", author: "Amelia Earhart" },
@@ -317,7 +317,7 @@ export const quotes = [
   { topic: 'change', text: "They always say time changes things, but you actually have to change them yourself.", author: "Andy Warhol" },
 
   // 64. Leadership (continued)
-  { topic: 'leadership', text: "Do what you feel in your heart to be right—for you’ll be criticized anyway.", author: "Eleanor Roosevelt" },
+  { topic: 'leadership', text: "Do what you feel in your heart to be right—for you'll be criticized anyway.", author: "Eleanor Roosevelt" },
   { topic: 'leadership', text: "A genuine leader is not a searcher for consensus but a molder of consensus.", author: "Martin Luther King Jr." },
   { topic: 'leadership', text: "The greatest leader is not necessarily the one who does the greatest things.", author: "Ronald Reagan" },
 
@@ -332,7 +332,7 @@ export const quotes = [
   { topic: 'cooperation', text: "Teamwork divides the task and multiplies the success.", author: "Unknown" },
 
   // 67. Change Your Life
-  { topic: 'change your life', text: "Life isn’t about finding yourself. Life is about creating yourself.", author: "George Bernard Shaw" },
+  { topic: 'change your life', text: "Life isn't about finding yourself. Life is about creating yourself.", author: "George Bernard Shaw" },
   { topic: 'change your life', text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
   { topic: 'change your life', text: "Your life does not get better by chance; it gets better by change.", author: "Jim Rohn" },
 
@@ -342,7 +342,7 @@ export const quotes = [
   { topic: 'choices', text: "Life is a matter of choices, and every choice you make makes you.", author: "John C. Maxwell" },
 
   // 69. Self-Improvement
-  { topic: 'self-improvement', text: "We don’t grow when things are easy; we grow when we face challenges.", author: "Unknown" },
+  { topic: 'self-improvement', text: "We don't grow when things are easy; we grow when we face challenges.", author: "Unknown" },
   { topic: 'self-improvement', text: "Be a little wiser than yesterday.", author: "Unknown" },
   { topic: 'self-improvement', text: "Always do your best. What you plant now, you will harvest later.", author: "Og Mandino" },
 
@@ -357,7 +357,7 @@ export const quotes = [
   { topic: 'learning', text: "Live to learn, and learn to live.", author: "Unknown" },
 
   // 72. Determination
-  { topic: 'determination', text: "It always seems impossible until it’s done.", author: "Nelson Mandela" },
+  { topic: 'determination', text: "It always seems impossible until it's done.", author: "Nelson Mandela" },
   { topic: 'determination', text: "A bend in the road is not the end of the road… unless you fail to make the turn.", author: "Helen Keller" },
   { topic: 'determination', text: "Where there's a will there's a way.", author: "Edward Payson Roe" },
 
@@ -413,13 +413,13 @@ export const quotes = [
   { topic: 'courage', text: "You cannot swim for new horizons until you have courage to lose sight of the shore.", author: "William Faulkner" },
 
   // 83. Leadership (final)
-  { topic: 'leadership', text: "You don’t lead by pointing and telling people some place to go.", author: "Ken Kesey" },
+  { topic: 'leadership', text: "You don't lead by pointing and telling people some place to go.", author: "Ken Kesey" },
   { topic: 'leadership', text: "Leadership is practiced not so much in words as in attitude and in actions.", author: "Harold S. Geneen" },
   { topic: 'leadership', text: "Example is not the main thing in influencing others. It is the only thing.", author: "Albert Schweitzer" },
 
   // 84. Gratitude (continued)
   { topic: 'gratitude', text: "Gratitude is not only the greatest of virtues, but the parent of all others.", author: "Cicero" },
-  { topic: 'gratitude', text: "Silent gratitude isn’t very much to anyone.", author: "Gertrude Stein" },
+  { topic: 'gratitude', text: "Silent gratitude isn't very much to anyone.", author: "Gertrude Stein" },
   { topic: 'gratitude', text: "When gratitude becomes your default setting, life changes.", author: "Oprah Winfrey" },
 
   // 85. Self-Esteem
@@ -429,7 +429,7 @@ export const quotes = [
 
   // 86. Humor (continued)
   { topic: 'humor', text: "I have not failed. I've just found 10,000 ways that won't work.", author: "Thomas A. Edison" },
-  { topic: 'humor', text: "If you want to tell people the truth, make them laugh, otherwise they’ll kill you.", author: "Oscar Wilde" },
+  { topic: 'humor', text: "If you want to tell people the truth, make them laugh, otherwise they'll kill you.", author: "Oscar Wilde" },
   { topic: 'humor', text: "People who think they know everything are a great annoyance to those of us who do.", author: "Isaac Asimov" },
 
   // 87. Imagination
@@ -445,7 +445,7 @@ export const quotes = [
   // 89. Character
   { topic: 'character', text: "Character is destiny.", author: "Heraclitus" },
   { topic: 'character', text: "Character may be manifested in the great moments, but it is made in the small ones.", author: "Phillips Brooks" },
-  { topic: 'character', text: "Nearly all men can stand adversity, but if you want to test a man’s character, give him power.", author: "Abraham Lincoln" },
+  { topic: 'character', text: "Nearly all men can stand adversity, but if you want to test a man's character, give him power.", author: "Abraham Lincoln" },
 
   // 90. Freedom
   { topic: 'freedom', text: "Freedom is never dear at any price.", author: "Mahatma Gandhi" },
