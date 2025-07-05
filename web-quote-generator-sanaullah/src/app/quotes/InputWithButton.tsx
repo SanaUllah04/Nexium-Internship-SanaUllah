@@ -3,7 +3,9 @@
 import { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { quotes } from './quotes'; // Make sure each quote has `text`, `author`, and `topic`
+import { quotes } from './quotes'; 
+
+
 
 export default function InputWithButton() {
   const [topic, setTopic] = useState('');
@@ -29,24 +31,24 @@ export default function InputWithButton() {
   return (
     <div className="flex flex-col items-center gap-6 p-6">
       <div className="text-center mt-4">
-        <h1 className="text-xl font-bold">
+        <h1 className="text-3xl font-bold">
           Enter a Topic for your Quotes
         </h1>
       </div>
 
-      <div className="flex w-full max-w-sm items-center gap-2">
+      <div className="flex w-full max-w-sm items-center gap-9">
         <Input
           type="text"
           placeholder="Enter your topic..."
-          value={topic}
+          value={topic} 
           onChange={(e) => setTopic(e.target.value)}
           onKeyDown={handleKeyPress}
-          className="shadow-sm"
+          className="w-96 shadow-sm text-lg placeholder:text-lg"
         />
         <Button
           type="button"
           onClick={handleSubmit}
-          className="shadow-sm hover:shadow-md transition-all"
+          className="text-lg shadow-sm hover:shadow-md transition-all"
         >
           Generate Quote
         </Button>
