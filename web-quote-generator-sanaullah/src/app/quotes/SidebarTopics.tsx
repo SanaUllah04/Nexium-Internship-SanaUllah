@@ -9,7 +9,7 @@ import {
 
 export default function SidebarTopics() {
   return (
-    <aside className=" w-64 p-4 border-r bg-gray-100 min-h-screen">
+    <aside className=" w-64 p-4 border-r  min-h-screen flex animate-gradient-main">
       <Accordion
         type="single"
         collapsible

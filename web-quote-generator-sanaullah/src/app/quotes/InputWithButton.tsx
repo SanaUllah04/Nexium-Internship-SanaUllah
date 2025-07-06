@@ -32,14 +32,14 @@ export default function InputWithButton() {
     <div className="flex flex-col items-center gap-6 p-6">
       <div className="text-center mt-4">
         <h1 className="text-3xl font-bold">
-          Enter a Topic for your Quotes
+          Enter a Topic for your Quote
         </h1>
       </div>
 
       <div className="flex w-full max-w-sm items-center gap-5 px-0.5 py-0">
         <Input
           type="text"
-          placeholder="One Topic At A Time.."
+          placeholder=""
           value={topic} 
           onChange={(e) => setTopic(e.target.value)}
           onKeyDown={handleKeyPress}

@@ -5,7 +5,7 @@ import SidebarTopics from './SidebarTopics'; // Updated import name
 
 export default function Quotes() {
   return (
-    <div className="min-h-screen flex bg-gradient-to-br from-slate-50 to-slate-100">
+    <div className="min-h-screen flex animate-gradient-main">
       {/* Sidebar on the left */}
       <SidebarTopics />
       
